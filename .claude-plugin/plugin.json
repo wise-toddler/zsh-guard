@@ -1,0 +1,12 @@
+{
+  "name": "zsh-guard",
+  "version": "0.1.0",
+  "description": "Blocks Bash tool commands that rely on bash word splitting, which zsh does not do",
+  "author": {
+    "name": "wise-toddler"
+  },
+  "license": "MIT",
+  "network": {
+    "hosts": []
+  }
+}

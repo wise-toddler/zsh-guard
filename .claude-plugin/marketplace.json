@@ -1,0 +1,14 @@
+{
+  "name": "zsh-guard",
+  "description": "zsh-guard: a Claude Code hook that blocks bash-style word splitting in zsh",
+  "owner": {
+    "name": "wise-toddler"
+  },
+  "plugins": [
+    {
+      "name": "zsh-guard",
+      "source": "./",
+      "description": "Blocks Bash tool commands that rely on bash word splitting, which zsh does not do"
+    }
+  ]
+}
